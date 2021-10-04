@@ -34,9 +34,9 @@ const ProgressBtn = ({ loading, handleClick, children, ...props }) => {
       <Button {...props} onClick={handleClick}>
         {children}
       </Button>
-      {loading && (
+
         <CircularProgress size={24} className={classes.btnProgress} />
-      )}
+
     </div>
   );
 };

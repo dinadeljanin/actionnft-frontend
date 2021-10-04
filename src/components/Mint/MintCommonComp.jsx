@@ -195,19 +195,6 @@ const MintCommonComp = () => {
             <br />
             Total minted so far <b>{totalSupply} of 3000</b></center>
 	  <br/><br/>
-	  <center>
-	  <strong>'The War on Crypto'</strong> features award-winning American artist <strong><a style={{color: '#000'}} href='https://www.rebeccahendin.com/' target='_blank'>Rebecca Hendin</a></strong>, whose art is regularly featured in BBC, and The Guardian. This limited series reflects the current state of US politics and their overarching stranglehold on crypto innovation.
-	  <a href='https://www.rebeccahendin.com/'><img src='https://pbs.twimg.com/media/E_f3Cr0XsAgtOkR?format=jpg&name=small'/></a>
-
-	  <br/><br/>
-	  We are <strong><a href='https://pac.xyz/' target='_blank' style={{color: '#000'}}>PAC DAO</a></strong> and we're bringing <strong><a target='_blank' style={{color: '#000'}} href='https://pacdao.substack.com/p/an-introduction-to-pac-dao'>political activism on chain</a></strong>. We have a mission to <strong><a href='https://pacdao.substack.com/p/the-renaissance-of-expression' target='_blank' style={{color: '#000'}}>effect positive change</a></strong> toward crypto.
-
-	  <br/><br/>
-	  All funds from the sale of the NFT go to politicians who provably act to support crypto.  These funds allow us to 
-<strong> <a href='https://pacdao.substack.com/p/the-art-of-applying-force' target='_blank' style={{color: '#000'}}> apply leverage</a></strong> toward our goal of removing crypto from the infrastructure bill.
-	  <br/><br/>
-	  If we succeed, then we've come from nowhere to save cryptocurrency from bureaucratic meddling.  If we fail, you can burn your common NFTs for a 90% refund for up to 30 days after the session ends or keep them as a souvenir.
-	</center>
           </Typography>
         </Grid>
       </Grid>
